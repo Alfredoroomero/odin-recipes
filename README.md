@@ -1,2 +1,3 @@
 # odin-recipes
 
+This project is a simple recipe website created as part of my web programming learning journey. It contains different traditional dishes presented with images, descriptions, ingredients, and step-by-step instructions. The goal is to practice HTML structure while making the pages easy to read and navigate. Each recipe has its own dedicated page, and all of them are linked from a main index page. The dishes included are Traditional Lasagna, Spanish Croquettes made from cocido, and Salmorejo Andaluz. This project combines coding practice with the cultural richness of international cuisine.
